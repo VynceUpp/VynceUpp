@@ -1,5 +1,5 @@
-# 👽 About Me:
-Hello! I'm Vincent, a passionate software developer from Kenya. I've been coding since 2019, and I'm currently working at [Laara](https://laaragroup.com), where I focus on building innovative web applications and creating seamless user experiences.
+# About Me:
+Hello! I'm Vincent, a passionate software developer from Kenya. I've been coding since 2019, and I'm currently working at [Laara](https://laaragroup.com), where I focus on building the front end of the web application.
 
 Over the years, I've gained expertise in both front-end and back-end technologies, and I love working with modern tools and frameworks like React, Node.js, TypeScript, and more. I am always learning and adapting to the ever-changing tech landscape.
 
