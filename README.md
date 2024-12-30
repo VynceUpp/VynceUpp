@@ -1,5 +1,9 @@
 # 👽 About Me:
-Greetings! I'm currently working at [Laara](https://laaragroup.com).
+Hello! I'm Vincent, a passionate software developer from Kenya. I've been coding since 2019, and I'm currently working at [Laara](https://laaragroup.com), where I focus on building innovative web applications and creating seamless user experiences.
+
+Over the years, I've gained expertise in both front-end and back-end technologies, and I love working with modern tools and frameworks like React, Node.js, TypeScript, and more. I am always learning and adapting to the ever-changing tech landscape.
+
+When I'm not coding, I enjoy exploring new ideas, contributing to open-source projects, and collaborating with talented people in the tech community.
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-otieno-12477533b/)
