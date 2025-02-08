@@ -5,14 +5,12 @@ Over the years, I've gained expertise in both front-end and back-end technologie
 
 When I'm not coding, I enjoy exploring new ideas, contributing to open-source projects, and collaborating with talented people in the tech community.
 
-## 🌐 Connect with Me:  
-<table>
-  <tr>
-    <td>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-otieno-12477533b/)</td>
-    <td>[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)</td>
-    <td>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VynceUpp)</td>
-  </tr>
-</table>
+### 📢 Connect with Me
+
+| LinkedIn | Discord | GitHub |
+|----------|---------|--------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-otieno-12477533b/) | [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VynceUpp) |
+
 
 # 💻 Tech Stack:
 
@@ -61,6 +59,7 @@ When I'm not coding, I enjoy exploring new ideas, contributing to open-source pr
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black"></td>
     <td><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black"></td>
