@@ -59,11 +59,11 @@ When I'm not coding, I enjoy exploring new ideas, contributing to open-source pr
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black"></td>
     <td><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black"></td>
   </tr>
+  <tr><td><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black"></td></tr>
 </table>
 
 ## 📌 Featured Projects  
