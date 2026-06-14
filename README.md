@@ -9,7 +9,7 @@ When I'm not coding, I enjoy exploring new ideas, contributing to open-source pr
 
 | LinkedIn | GitHub |
 |----------|--------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-otieno-12477533b/)  | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VynceUpp) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-wanjohi-12477533b/)  | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VynceUpp) |
 
 
 ## 💻 Tech Stack
