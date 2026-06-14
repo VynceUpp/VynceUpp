@@ -1,5 +1,5 @@
 # 🚀 About Me  
-👋 Hey there! I'm **Vincent Otieno**, a passionate **software developer from Kenya** specializing in crafting sleek, high-performance web applications.  
+👋 Hey there! I'm **Charles Wanjohi**, a passionate **software engineer** specializing in crafting sleek, high-performance web applications.  
 
 Over the years, I've gained expertise in both front-end and back-end technologies, and I love working with modern tools and frameworks like React, Node.js, TypeScript, and more. I am always learning and adapting to the ever-changing tech landscape.
 
@@ -7,9 +7,9 @@ When I'm not coding, I enjoy exploring new ideas, contributing to open-source pr
 
 ### 📢 Connect with Me
 
-| LinkedIn | Discord | GitHub |
-|----------|---------|--------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-otieno-12477533b/) | [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VynceUpp) |
+| LinkedIn | GitHub |
+|----------|--------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-otieno-12477533b/)  | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VynceUpp) |
 
 
 ## 💻 Tech Stack
