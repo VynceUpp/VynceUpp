@@ -1,18 +1,18 @@
-# 🚀 About Me  
-👋 Hey there! I'm **Charles Wanjohi**, a passionate **software engineer** specializing in crafting sleek, high-performance web applications.  
+#  About Me  
+
 
 Over the years, I've gained expertise in both front-end and back-end technologies, and I love working with modern tools and frameworks like React, Node.js, TypeScript, and more. I am always learning and adapting to the ever-changing tech landscape.
 
 When I'm not coding, I enjoy exploring new ideas, contributing to open-source projects, and collaborating with talented people in the tech community.
 
-### 📢 Connect with Me
+###  Connect with Me
 
 | LinkedIn | GitHub |
 |----------|--------|
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-wanjohi-12477533b/)  | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VynceUpp) |
 
 
-## 💻 Tech Stack
+##  Tech Stack
 
 | **Front-end** | **Back-end** | **Styling & UI** | **State Management** |
 |--------------|-------------|------------------|----------------------|
@@ -27,13 +27,13 @@ When I'm not coding, I enjoy exploring new ideas, contributing to open-source pr
 | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |  |  |  |
 
 
-## 📌 Featured Projects  
+##  Featured Projects  
 
-🚀 [**Code Nexus**](https://github.com/VynceUpp/code-nexus)  
+ [**Code Nexus**](https://github.com/VynceUpp/code-nexus)  
 A **developer productivity platform** that suggests daily coding tasks.  
 
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=VynceUpp&theme=radical&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />  
@@ -45,10 +45,10 @@ A **developer productivity platform** that suggests daily coding tasks.
 </div>  
 
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VynceUpp&theme=radical&no-frame=false&no-bg=true&margin-w=4&border_radius=10)
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
